@@ -48,7 +48,6 @@ It goes beyond just summarizing PDFs — it's a complete SaaS business solution.
 | Authentication   | `Clerk`                                                                           |
 | Payments         | `Stripe`                                                                          |
 | Database         | `PostgreSQL (via NeonDB)`                                                         |
-| Deployment       | `NeonDB`, `Vercel`                                                                |
 
 ---
 
