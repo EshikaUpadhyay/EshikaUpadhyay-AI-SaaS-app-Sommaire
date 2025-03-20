@@ -1,4 +1,4 @@
-# 💻 AI SaaS App — Sommaire Cheatsheet
+# 💻 AI SaaS App — Sommaire 
 
 Welcome to the **Sommaire AI SaaS App Cheatsheet**
 
